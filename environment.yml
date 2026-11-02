@@ -1,0 +1,27 @@
+name: air
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - ffmpeg
+  - git
+  - jupyterlab
+  - pip:
+      - mujoco
+      - mediapy
+      - numpy
+      - matplotlib
+      - seaborn
+      - opencv-python
+      - ipywidgets
+      - tqdm
+      - ompl==1.7.0
+      - ur-analytic-ik
+      - unified-planning[fast-downward]
+      - pddlgym
+      - gymjoco @ git+https://github.com/guyazran/GymJoCo
+      - gymnasium
+      - stable-baselines3
+      - torch
+      - tensorboard
