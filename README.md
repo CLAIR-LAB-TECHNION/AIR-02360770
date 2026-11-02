@@ -10,9 +10,6 @@
 ## TA
 Guy Azran
 
-- **Lecture:** Wednesday 14:30–16:30  
-- **Tutorial:** Wednesday 16:30–17:30  
-
 ---
 
 ## Course Overview
