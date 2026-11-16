@@ -3,6 +3,9 @@
 # mujoco sim warnings and crashes
 MUJOCO_LOG.TXT
 
+# downloaded robot description files
+mujoco_menagerie/
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,python,jetbrains+all,visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,python,jetbrains+all,visualstudio
